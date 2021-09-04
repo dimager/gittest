@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Branch2");
         System.out.println("commit3");
         System.out.println("Commit4");
+        System.out.println("Branch3");
+
     }
 
 }
