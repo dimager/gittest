@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Commit4");
         System.out.println("Branch3");
 
+        System.out.println("new Branch");
+
     }
 
 }
